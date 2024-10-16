@@ -117,19 +117,12 @@ int main(void)
 ```
 
 ## Output screen shots of proteus  :
-### LED OFF(SWITCH OFF):
 
-![led off exp 03](https://github.com/Alfredsec/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120621608/5a8be988-5fd1-449e-8461-d0dc02c274c0)
-
-### LED ON(SWITCH ON):
-
-![led on exp 03](https://github.com/Alfredsec/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120621608/a43e582f-44d8-4285-8a55-f31f986d3b76)
-
+![Screenshot 2024-10-16 163027](https://github.com/user-attachments/assets/20c02481-d9ba-4630-ba5b-89e1813971b4)
 
 ## Proteus layout(Add pdf screen shot of circuit here)
  
- ![EXP 03 ](https://github.com/Alfredsec/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120621608/e51e5d46-c80e-4c4f-adf0-fdf43c5b25e4)
-
+ ![Screenshot 2024-10-16 163333](https://github.com/user-attachments/assets/d2c28c1f-216c-49f9-8b55-fd9205266e11)
  
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
