@@ -118,11 +118,13 @@ int main(void)
 
 ## Output screen shots of proteus  :
 
-![Screenshot 2024-11-20 155540](https://github.com/user-attachments/assets/38854ddb-3be9-4e0b-b6e4-d8172ca882ef)
+![Screenshot 2024-09-25 025335](https://github.com/user-attachments/assets/a69935f1-845e-4b77-9b55-10d8025dfdad)
 
-## Proteus layout(Add pdf screen shot of circuit here)
+
+## Proteus layout:
  
-![Screenshot 2024-11-20 160029](https://github.com/user-attachments/assets/65ebb4ba-9adc-4b8d-94c0-519bb7e72900)
+![Screenshot 2024-09-25 172721](https://github.com/user-attachments/assets/517edb4a-b8ba-434a-aef7-b80a67d3587e)
+
  
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
